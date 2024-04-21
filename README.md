@@ -1,1 +1,1 @@
-### Hey everyone 😃! Nice to see you.
+### Hey everyone 👋! Nice to see you.
