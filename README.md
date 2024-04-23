@@ -14,21 +14,35 @@ Check out my repositories to view my past projects and contributions to the bloc
 ## Tech Stack 💻
 
 #### Languages
-![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c++&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=chocolate)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
 #### JS Framework
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular&logoColor=red)
 
 #### CSS Framework
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=teal)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+### тестирование
+![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=Cypress&logoColor=aqua)
+
+### мобильная разработка
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+
+### игровой движок
+![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity)
