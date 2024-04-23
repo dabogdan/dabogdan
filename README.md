@@ -30,6 +30,7 @@ Check out my repositories to view my past projects and contributions to the bloc
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Backend
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=teal)
