@@ -52,4 +52,4 @@ Check out my repositories to view my past projects and contributions to the bloc
 ![Web3](https://img.shields.io/badge/-Web3-000?style=for-the-badge&logo=web3)
 ![DApp](https://img.shields.io/badge/-dapp-000?style=for-the-badge&logo=dapp)
 
-[![](https://visitcount.itsvg.in/api?id=&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
