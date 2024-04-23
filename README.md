@@ -15,9 +15,9 @@ Check out my repositories to view my past projects and contributions to the bloc
 
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c++&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=chocolate)
+![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 
@@ -36,7 +36,7 @@ Check out my repositories to view my past projects and contributions to the bloc
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
