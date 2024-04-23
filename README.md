@@ -11,6 +11,12 @@ Custom Blockchain Solutions: Whether it's developing new protocols or modifying 
 📈 Boost Your Project with Advanced Blockchain Solutions
 Check out my repositories to view my past projects and contributions to the blockchain community. If you’re ready to discuss your project or need more information, feel free to reach out.
 
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
 ## Tech Stack 💻
 
 #### Languages
