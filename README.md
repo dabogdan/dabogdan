@@ -20,7 +20,7 @@ Check out my repositories to view my past projects and contributions to the bloc
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
 #### JS Framework
-[React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
 #### CSS Framework
