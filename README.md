@@ -25,25 +25,22 @@ Check out my repositories to view my past projects and contributions to the bloc
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=teal)
 
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=teal)
-
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=Cypress&logoColor=aqua)
-
-![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
-
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity)
 
 ![Polkadot](https://img.shields.io/badge/-polkadot-000?style=for-the-badge&logo=polkadot&logoColor=crimson)
 ![Web3](https://img.shields.io/badge/-Web3-000?style=for-the-badge&logo=web3)
 ![DApp](https://img.shields.io/badge/-dapp-000?style=for-the-badge&logo=dapp)
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=Cypress&logoColor=aqua)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
